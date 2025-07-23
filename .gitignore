@@ -1,0 +1,8 @@
+Dockerfile-local
+web-local.conf
+package-lock.json
+/node_modules
+/public
+.idea
+yarn.lock
+.DS_Store
